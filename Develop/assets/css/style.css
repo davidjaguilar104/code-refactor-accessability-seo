@@ -65,6 +65,14 @@ p {
 }
 /* hero styles end */
 
+
+/* middle content styles start */
+.middle-content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,13 +82,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* middle content styles end */
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* side section content styles start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
