@@ -114,6 +114,12 @@ a {
     font-size: 36px;
 }
 
+/* social media marketing h2 needed specific width to better match mock-up */
+#smd {
+    width: 392px;
+}
+/* end of special style */
+
 .float-left {
     float: left;
     margin-right: 25px;
