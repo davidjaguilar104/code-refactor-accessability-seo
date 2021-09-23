@@ -6,7 +6,7 @@ I wanted to refactor a website's code in order to make it more accessable for pe
 ### Application 
 ![alt text](assets/images/live-site.png)
 
-[Live Site!](https://davidjaguilar104.github.io/code-refactor-accessibility-seo/)
+[View the Live Site!](https://davidjaguilar104.github.io/code-refactor-accessibility-seo/)
 
 #### Technologies Used
 * HTML
